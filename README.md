@@ -11,8 +11,13 @@ Objetivo: Analisar as correlações entre esses fatores de risco e a ocorrência
 Etapas aplicadas:
 
 -Análise Explorátoria
+
 -Tratamento de valores nulos e não informados
+
 -Transformação de atributos utilizando técnicas como one-hot encoding
+
 -Geração de gráficos e estatísticas descritivas
+
 -Divisão do modelo em treino e teste
+
 -Padronização dos dados
